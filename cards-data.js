@@ -1,4 +1,5 @@
 export default [
+  { href: './html/Capybara clicker/index.html', imgSrc: 'capybara clicker.jpeg', name: 'Capybara clicker' , 'page': 5, 'id': 777 },
   { href: './html/Case Clicker 2/index.html', imgSrc: 'case clicker 2.jpeg', name: 'Case Clicker 2' , 'page': 5, 'id': 780 },
   { href: './html/Choppy Orc/index.html', imgSrc: 'choppy orc.jpeg', name: 'Choppy Orc' , 'page': 5, 'id': 790 },
   { href: './html/Drift Hunters/index.html', imgSrc: 'drift hunters.jpeg', name: 'Drift Hunters' , 'page': 5, 'id': 798 },
