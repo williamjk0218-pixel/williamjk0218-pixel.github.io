@@ -1,4 +1,5 @@
 export default [
+  { href: './html/Rubix/index.html', imgSrc: 'rubix.jpeg', name: 'Rubix' , 'page': 5, 'id': 939 },
   { href: './html/Sleepy knight/index.html', imgSrc: 'sleepy knight.jpeg', name: 'Sleepy knight' , 'page': 5, 'id': 950 },
   { href: './html/Slow roads/index.html', imgSrc: 'slow roads.jpeg', name: 'Slow roads' , 'page': 5, 'id': 954 },
   { href: './html/Snow Rider 3d/index.html', imgSrc: 'snow rider 3d.jpeg', name: 'Snow Rider 3d' , 'page': 5, 'id': 961 },
