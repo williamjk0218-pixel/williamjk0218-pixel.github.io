@@ -5,5 +5,4 @@ export default [
 { href: './html/Fabled Conquerors/index.html', imgSrc: 'fabled conquerors.jpeg', name: 'Fabled Conquerors' , 'page': 5, 'id': 811 },
 { href: './html/Escaping the prison/index.html', imgSrc: 'escaping the prison.jpeg', name: 'Escaping the prison' , 'page': 5, 'id': 810 },
 { href: './html/DOOM/index.html', imgSrc: 'doom.jpeg', name: 'DOOM' , 'page': 5, 'id': 795 },
-{ href: './html/8 Ball Billards Classic/index.html', imgSrc: '8 ball billards classic.jpeg', name: '8 Ball Billards Classic' , 'page': 5, 'id': 396 },
 ]
